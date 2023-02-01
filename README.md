@@ -36,6 +36,8 @@ $ sudo bash /opt/tons/uninstall.sh
 
 This installation type will create .app aplication in your Applications folder.
 
-To run application just double click on it in Applications folder or find it in Launchpad by typing 'tons-interactive'.
+To run application just double click on it in the Applications folder or find it in the Launchpad by typing 'tons-interactive'.
+
+*Note: first startup takes longer than usual*
 
 To delete application just drop tons-interactive to the bin.
